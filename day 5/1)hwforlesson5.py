@@ -1,4 +1,4 @@
-number1 = input()
-number2 = input()
+num1 = int(input("Please enter first number: "))
+num2 = int(input("Please enter second number: "))
 
-print (number1 + number2)
+print(num1 + num2)
