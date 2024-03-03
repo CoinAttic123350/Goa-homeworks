@@ -1,12 +1,7 @@
-print("Insert username")
-username = input()
+name = input('Please enter your name: ')
+age = input('Please enter your age: ')
+anwser = input('How many years ahead would you go to the future if you could time travel?: ')
 
-print("Insert age")
-age = input()
-
-print("Anwser this question: How many years later do you want to time travel?")
-anwser = input()
-
-print(username)
-print(age)
-print(anwser)
+print((name) + (", if you time traveled, you would be..."))
+print(int(age) + int(anwser))
+print("years old!")
