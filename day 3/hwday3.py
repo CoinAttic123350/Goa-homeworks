@@ -1,7 +1,11 @@
+
+#homework day 3
+
+
+
 from turtle import *
 
 
-#house
 speed(10)
 
 width(7)
