@@ -4,7 +4,7 @@
 
 
 # 1)
-num1 = int(input("please enter a whole number: "))
+num1 = int(input("please enter an integer: "))
 num2 = float(num1)
 
 print(num1 == num2)
@@ -76,8 +76,8 @@ print(number1 == number2)
 print(number1 != number2)
 
 # 10)
-a = int(input("enter a whole number: "))
-b = float(input("enter a decimal number: "))
+a = int(input("enter an integer: "))
+b = float(input("enter a float: "))
 
 print(a == b)
 print(a != b)
