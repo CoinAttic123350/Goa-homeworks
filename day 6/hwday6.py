@@ -5,7 +5,7 @@
 
 # 1)
 num1 = int(input("please enter a whole number: "))
-num2 = float(input("please enter a decimal number: "))
+num2 = float(num1)
 
 print(num1 == num2)
 
