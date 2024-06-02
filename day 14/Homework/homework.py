@@ -1,4 +1,10 @@
+sum = 0
+
+
 for i in range(50):
-    while i < 50:
-        print("num")
-        i = i - 1
+    if i % 5 == 0:
+        sum =+ i
+
+print(sum)
+
+#ok
